@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a32024af-8837-4da9-9ab0-0d0b0d8eeaec" width="400px" alt="Feelio Infrastructure Diagram">
 </p>
+
 ### 🛠 Tech Stack
 - **Backend:** Java 17, Spring Boot, PostgreSQL, Google Gemini AI
 - **Frontend:** Next.js, Tailwind CSS, Axios, TanStack Query
